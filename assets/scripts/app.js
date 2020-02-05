@@ -3,13 +3,10 @@ let currentResult = defaultResult
 
 function add(num1, num2) {
   const result = num1 + num2
-  alert(`The result is ${result}`)
+  return result
 }
 
-add(3, 6)
-add(10, 8)
-
-currentResult = (currentResult + 10) * 3 / 2 - 1
+currentResult = add(3, 6)
 
 let calculationDescription = `(${defaultResult} + 10) * 3 / 2 - 1`
 
