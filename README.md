@@ -1,6 +1,6 @@
 # First app JS course Work on Udemy
 
-First app for Udemy. Done.
+First project for Udemy. Done.
 ## Getting Started
 
 Find this course here: https://www.udemy.com/share/1029RkCUUZc1dXR34=/
